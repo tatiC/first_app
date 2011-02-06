@@ -1,4 +1,4 @@
-1297027107
+1297027176
 Application	/Applications/MAMP/htdocs/rails_projects/first_app/config/application.rb	  class Application 
 ApplicationController	/Applications/MAMP/htdocs/rails_projects/first_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Applications/MAMP/htdocs/rails_projects/first_app/app/helpers/application_helper.rb	module ApplicationHelper
