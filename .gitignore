@@ -9,7 +9,4 @@ doc/app
 *.swp
 *.~
 .DS_Store
-.redcar
-.redcar/tags
-*.redcar
-*.redcar/tags
+.gitignore
