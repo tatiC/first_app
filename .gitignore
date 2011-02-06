@@ -12,3 +12,4 @@ doc/app
 .redcar/*
 .redcar
 *.redcar
+.redcar/tags
